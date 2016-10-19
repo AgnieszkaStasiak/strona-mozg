@@ -1,0 +1,35 @@
+body {background-color: Black;
+}
+#tresc{
+text-align: left;
+margin-left: auto;
+margin-right: auto;
+width: 750px; 
+color: #FFF0FF;
+}
+#naglowek {
+
+width:850px; 
+height:150px; 
+background-image: url(naglowek.jpg); 
+border: 1px solid #A0A0A0;}
+#menu {
+bottom:0px; 
+right:0px; 
+left:30px; 
+top:96px; 
+overflow:hidden; 
+width:150px; 
+height:350px; 
+background-color:#E5E5E5; 
+border: 1px solid #A0A0A0; }
+#tekst{
+background-color:black; 
+color: #FFF4FF;
+text-align: left;
+margin-top: -300px;
+margin-left:155px;
+width: 700px; 
+overflow:hidden; 
+}
+
